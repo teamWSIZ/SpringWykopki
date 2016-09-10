@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>pl.edu.wsi</groupId>
-    <artifactId>CleanMVC</artifactId>
+    <artifactId>SpringWykopki</artifactId>
     <packaging>war</packaging>
     <version>0.1.1-SNAPSHOT</version>
     <name>CleanMVC</name>
