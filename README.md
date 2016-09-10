@@ -1,3 +1,5 @@
-# Czysty projekt do Spring MVC
+# Testy rozwiązań w Spring 
 
-Projekt skompilować do .war'a i uruchomić na serwerze aplikacyjnym (Tomcat, Wildfly, Jetty)
+Projekt do testowania różnych mechanizmów w Spring w tym: 
+- scheduled tasks (~cron)
+- 
